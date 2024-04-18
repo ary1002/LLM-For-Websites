@@ -60,7 +60,7 @@ This is a Streamlit-based application that allows users to chat with a chatbot p
 4. Run the Streamlit application:
 
    ```
-   streamlit run app.py
+   streamlit run chat_with_websites_streamlit.py
    ```
 
 5. The application will open in your default web browser. Enter a website URL in the sidebar, and start chatting with the chatbot.
